@@ -34,7 +34,7 @@ As the final step of our course at Codaisseur, I built an app about the cars. Th
 The front-end is created with JavaScript, React, Redux and CSS, and the back-end with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM.
 The images and sounds are stored and fetched from the Cloudinary. I have furthermore integrated PayPal as a payment method.
 
-*Carso Repositories: <a href="https://github.com/Alinemati1987/carso-frontend">Front End</a> / <a href="https://github.com/Alinemati1987/carso-backend">Back End</a>
+*Carso Repositories:* <a href="https://github.com/Alinemati1987/carso-frontend">Front End</a> / <a href="https://github.com/Alinemati1987/carso-backend">Back End</a>
 
 
 ### ✉️ Find me on:
