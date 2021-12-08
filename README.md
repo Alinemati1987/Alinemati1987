@@ -1,7 +1,7 @@
 # AliNemati
 This is about me (*A juniour full-stack developer who lives in Utrecht, Netherlands*)
 
-![](https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif =100x100)
+![](https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif |width=100)
 
 I have had the opportunity of being involved in several educations and job positions in my life. They made me a person with a proven track record in learning new skills. Also, I have learned how to connect my expriences and skils with each other and use this connection in new challenges. 
 
