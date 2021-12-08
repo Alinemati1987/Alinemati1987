@@ -28,7 +28,7 @@ And, currently I'm learning
 
 ### Recent projects
 
-#### 🏎 *Carso
+#### 🏎 *Carso*
 
 As the final step of our course at Codaisseur, I built an app about cars. This app allows users to find their favorite car based on its engine's sound. the user has two options, as a rich person can buy this car directly from the company, or as a car lover who can buy a sound kit that produces the same sound for his current car as his favorite car model has. On the other hand, the sellers of sound kits also can sign up and present their products.
 The front-end is created with JavaScript, React, Redux, and CSS, and the back-end with an Express server, JWT & Bcrypt authentication, and a PostgreSQL database with Sequelize ORM.
@@ -37,7 +37,7 @@ The images and sounds are stored and fetched from the Cloudinary. I have further
 *Carso Repositories:*  <a href="https://github.com/Alinemati1987/carso-frontend">Front End</a> / <a href="https://github.com/Alinemati1987/carso-backend">Back End</a>
 
 
-#### 🏎 * ! Bored
+#### 🏎 *! Bored*
 
 As a group project at Codaisseur, we built an entertaining app. This app allows users to find an activity for themselves when they are bored. This app suggests different activities in different fields as well as doing activities alone, with another person, or with a group. The user has two menus for selecting these options.
 Since the weather has a key effect on the activity, we used a weather API in connection with GPS API, and the app automatically shows the weather forecast visually to the user. 
@@ -45,7 +45,7 @@ Additionally, we build this app with react-native, and this app is now available
 The front-end is created with JavaScript, React, Redux, and CSS, and the mobile version with react-native and redux.
 The activities are fetched from an API.
 
-* ! bored Repositories:*  <a href="https://github.com/Alinemati1987/Bored-frontend">Web-app</a> / <a href="https://github.com/Alinemati1987/boredNative">Mobile-app</a>
+*! bored Repositories:*  <a href="https://github.com/Alinemati1987/Bored-frontend">Web-app</a> / <a href="https://github.com/Alinemati1987/boredNative">Mobile-app</a>
 
 
 
