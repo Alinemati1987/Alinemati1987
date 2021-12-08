@@ -6,7 +6,7 @@ I have had the opportunity of being involved in several educations and job posit
 
 A couple of months ago, I decided to dive into the world of programming and started to learn coding at <a href="https://codaisseur.com/">Codaisseur Academy</a> in Amsterdam. After 9-week of intensive course, I can proudly introduce myself as a junior web-developer.
 
-Now, I am seeking new opportunities to further enhance the best of my performance.
+Now, I am seeking new opportunities to further enhance the best of my performance in the field of coding.
 
 
 ### 🧰 Languages and Tools:
@@ -30,11 +30,23 @@ And, currently I'm learning
 
 #### 🏎 *Carso
 
-As the final step of our course at Codaisseur, I built an app about the cars. This app allows the users to find their favorite car base on its engins sound. the user has two option, as a rich person can buy this car directly from the company, or as a car lover who can buy a sound kit that produce the same sound for his current car as his favorite car model has. On the other hand the sellers of sound kits also can sign up and present their products.
-The front-end is created with JavaScript, React, Redux and CSS, and the back-end with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM.
+As the final step of our course at Codaisseur, I built an app about cars. This app allows users to find their favorite car based on its engine's sound. the user has two options, as a rich person can buy this car directly from the company, or as a car lover who can buy a sound kit that produces the same sound for his current car as his favorite car model has. On the other hand, the sellers of sound kits also can sign up and present their products.
+The front-end is created with JavaScript, React, Redux, and CSS, and the back-end with an Express server, JWT & Bcrypt authentication, and a PostgreSQL database with Sequelize ORM.
 The images and sounds are stored and fetched from the Cloudinary. I have furthermore integrated PayPal as a payment method.
 
-*Carso Repositories:* <a href="https://github.com/Alinemati1987/carso-frontend">Front End</a> / <a href="https://github.com/Alinemati1987/carso-backend">Back End</a>
+*Carso Repositories:*  <a href="https://github.com/Alinemati1987/carso-frontend">Front End</a> / <a href="https://github.com/Alinemati1987/carso-backend">Back End</a>
+
+
+#### 🏎 * ! Bored
+
+As a group project at Codaisseur, we built an entertaining app. This app allows users to find an activity for themselves when they are bored. This app suggests different activities in different fields as well as doing activities alone, with another person, or with a group. The user has two menus for selecting these options.
+Since the weather has a key effect on the activity, we used a weather API in connection with GPS API, and the app automatically shows the weather forecast visually to the user. 
+Additionally, we build this app with react-native, and this app is now available for mobiles (Android and ios). 
+The front-end is created with JavaScript, React, Redux, and CSS, and the mobile version with react-native and redux.
+The activities are fetched from an API.
+
+* ! bored Repositories:*  <a href="https://github.com/Alinemati1987/Bored-frontend">Web-app</a> / <a href="https://github.com/Alinemati1987/boredNative">Mobile-app</a>
+
 
 
 ### ✉️ Find me on:
