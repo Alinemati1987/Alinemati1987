@@ -37,7 +37,7 @@ The images and sounds are stored and fetched from the Cloudinary. I have further
 *Carso Repositories:*  <a href="https://github.com/Alinemati1987/carso-frontend">Front End</a> / <a href="https://github.com/Alinemati1987/carso-backend">Back End</a>
 
 
-#### 🏎 *! Bored*
+#### 😃 *! Bored*
 
 As a group project at Codaisseur, we built an entertaining app. This app allows users to find an activity for themselves when they are bored. This app suggests different activities in different fields as well as doing activities alone, with another person, or with a group. The user has two menus for selecting these options.
 Since the weather has a key effect on the activity, we used a weather API in connection with GPS API, and the app automatically shows the weather forecast visually to the user. 
