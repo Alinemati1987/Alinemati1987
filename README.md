@@ -26,8 +26,15 @@ And, currently I'm learning
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px"> React Native
  </p>
 
+### Recent projects
 
+#### 🏎 *Carso
 
+As the final step of our course at Codaisseur, I built an app about the cars. This app allows the users to find their favorite car base on its engins sound. the user has two option, as a rich person can buy this car directly from the company, or as a car lover who can buy a sound kit that produce the same sound for his current car as his favorite car model has. On the other hand the sellers of sound kits also can sign up and present their products.
+The front-end is created with JavaScript, React, Redux and CSS, and the back-end with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM.
+The images and sounds are stored and fetched from the Cloudinary. I have furthermore integrated PayPal as a payment method.
+
+*Carso Repositories: <a href="https://github.com/Alinemati1987/carso-frontend">Front End</a> / <a href="https://github.com/Alinemati1987/carso-backend">Back End</a>
 
 
 ### ✉️ Find me on:
